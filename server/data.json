@@ -1,0 +1,42 @@
+[
+  {
+    "email": "carol.white@example.com",
+    "number": "3344556677",
+    "age": 25,
+    "fullname": "Carol White test",
+    "address": "202 Pine St, Springfield, IL",
+    "birthday": "1992-12-05",
+    "work": "Marketing Specialist",
+    "PostWork": "Marketing Manager"
+  },
+  {
+    "email": "wqw@gmail.com",
+    "fullname": "ole ole ole",
+    "age": 10,
+    "number": "123344",
+    "address": "ole ole ole",
+    "birthday": "2014-07-01",
+    "work": "ole ole ole",
+    "PostWork": "ole ole ole"
+  },
+  {
+    "email": "test@gmail.com",
+    "fullname": "ole ole lalala",
+    "age": 1,
+    "number": "123456",
+    "address": "ole ole lalala",
+    "birthday": "2023-07-01",
+    "work": "ole ole lalala",
+    "PostWork": "ole ole lalala"
+  },
+  {
+    "email": "test@1gmail.com",
+    "fullname": "ole ole lalala\t",
+    "age": 1,
+    "number": "123456\t",
+    "address": "ole ole lalala\t",
+    "birthday": "2023-07-01",
+    "work": "ole ole lalala\t",
+    "PostWork": "ole ole lalala\t"
+  }
+]
